@@ -1,0 +1,6 @@
+region        = "us-east-2"
+project_name  = "eks_project"
+cluster_name  = "eks-cluster1"
+instance_type = "t2.micro"
+key_name      = "ec2_key"
+ami           = "ami-0ee4f2271a4df2d7d"
